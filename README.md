@@ -1,5 +1,11 @@
 # The #1 Magento 2 GDPR FREE (EU)
 
+Assignment 2 GOAL :
+● Apply code updates & install private packages
+● Patch third party components
+Method :
+● PHP & Composer & Git
+
 ## What is GDPR? - Help Your Magento 2 Store Protect Customers
 GDPR stands for General Data Protection Regulation issued by EU, starting on May 25, 2018. This is a new set of data privacy regulations giving an important impact not only on European countries but also on all over the world.
 
